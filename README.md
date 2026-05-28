@@ -65,11 +65,4 @@ Right now, I'm on a **career break** to pivot toward two of the most exciting fr
 
 ---
 
-### 📫 Let's Connect
-
-- **LinkedIn:** [linkedin.com/in/vimbainashe-mangwiro](https://linkedin.com/in/vimbainashe-mangwiro)
-- **Location:** Hong Kong
-
----
-
 *"Building systems that think. Writing code that performs. Learning in public."*
