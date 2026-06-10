@@ -12,11 +12,9 @@ Right now, I'm on a **career break** to pivot toward two of the most exciting fr
 
 ---
 
-### 🦀 What I'm Building in Rust
+### 🦀 What I'm Exploring in Rust
 
-- **Low-latency order book simulator** – exploring ownership, zero-cost abstractions, and fearless concurrency
-- **CLI risk calculator** – implementing VaR and Greeks using pure Rust
-- **Async trading feed processor** – using Tokio for concurrent message handling
+- **Rust Command Line Tools** – Exploring rust powered command line tools through a Rust code-along
 
 **Concepts I'm mastering:** Ownership & borrowing, lifetimes, async/await in Rust, error handling with `Result`/`Option`, FFI with Python.
 
@@ -37,7 +35,7 @@ Right now, I'm on a **career break** to pivot toward two of the most exciting fr
 
 | Area | Technologies |
 |------|--------------|
-| **Systems Programming** | Rust, C++|
+| **Systems Programming** | Rust|
 | **Agentic AI** | LangChain |
 | **Backend** | Python (FastAPI), C#, .NET |
 | **Frontend** | React, TypeScript, Next.js |
@@ -50,7 +48,6 @@ Right now, I'm on a **career break** to pivot toward two of the most exciting fr
 
 - 🦀 **Rust learning projects** – from small CLI tools to async systems
 - 🤖 **Agentic AI experiments** – multi-agent workflows, tool-using agents
-- 📊 **Performance benchmarks** – Rust vs Python for numerical workloads
 - 📝 **Notes and patterns** from my upskilling journey
 
 ---
