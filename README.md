@@ -14,7 +14,8 @@ Right now, I'm on a **career break** to pivot toward two of the most exciting fr
 
 ### 🦀 What I'm Exploring in Rust
 
-- **Rust Command Line Tools** – Exploring rust powered command line tools through a Rust code-along
+- **Rust Command Line Tools** – Building rust powered command line tools through a Rust code-alongs
+- **Rust Usage In The Finance Industry** - How Rust can be leveraged in the Financial Industry as outlined in the "Rust For Finance" Series by Ethan Crossley
 
 **Concepts I'm mastering:** Ownership & borrowing, lifetimes, async/await in Rust, error handling with `Result`/`Option`, FFI with Python.
 
